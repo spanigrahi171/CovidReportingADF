@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf77",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d3abca89-7dbc-4f49-b8d5-ff5a699aafc3",
+		"tenantId": "945c199a-83a2-4e80-9f8c-5a91be5752dd"
+	}
+}
